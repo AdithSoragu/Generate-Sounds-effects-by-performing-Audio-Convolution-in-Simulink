@@ -262,12 +262,7 @@ Through this project, the following concepts were understood:
 
 The project can be extended by adding:
 
-- Real-time audio processing
-- AI-based sound enhancement
-- Advanced audio filters
-- Noise cancellation
-- Live microphone input
-- FPGA implementation
+
 
 ---
 
