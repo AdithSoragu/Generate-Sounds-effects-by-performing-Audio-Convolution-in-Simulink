@@ -242,20 +242,6 @@ Audio convolution is widely used in:
 - Practical DSP implementation
 - Flexible audio processing
 
----
-
-# 📚 Learning Outcomes
-
-Through this project, the following concepts were understood:
-
-- Audio signal processing
-- Convolution operation
-- DSP fundamentals
-- Simulink model design
-- Spectrum analysis
-- MATLAB audio processing
-- Signal visualization
-
 
 ---
 
