@@ -176,11 +176,7 @@ The waveform and frequency spectrum were captured using the Simulink spectrum an
 
 ---
 
-# 📊 Spectrum Analysis
 
-The spectrum analyzer was used to observe:
-- Frequency distribution
-- Signal amplitude
 
 
 ---
