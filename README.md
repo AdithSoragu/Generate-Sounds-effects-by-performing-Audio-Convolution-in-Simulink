@@ -77,12 +77,6 @@ The Simulink model consists of:
 - Audio Output Block
 - Spectrum Analyzer
 
----
-
-# 📂 Project Structure
-
-
-```
 # ⚙️ Software and Tools Used
 
 | Tool | Purpose |
