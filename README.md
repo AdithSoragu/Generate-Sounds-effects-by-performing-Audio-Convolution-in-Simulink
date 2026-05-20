@@ -176,9 +176,6 @@ The waveform and frequency spectrum were captured using the Simulink spectrum an
 
 ---
 
-
-
-
 ---
 
 # 📈 Applications
