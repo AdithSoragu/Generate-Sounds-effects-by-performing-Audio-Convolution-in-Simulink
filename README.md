@@ -188,9 +188,6 @@ The graphical waveform confirms successful convolution processing.
 
 ---
 
-
-
-
 ---
 
 # 📈 Applications
