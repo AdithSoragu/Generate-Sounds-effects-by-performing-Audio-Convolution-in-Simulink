@@ -212,10 +212,7 @@ Click the **Run** button in Simulink.
 
 ## Step 4: Observe Output
 
-Analyze:
-- Audio waveform
-- Frequency response
-- Generated sound effects
+
 
 ---
 
