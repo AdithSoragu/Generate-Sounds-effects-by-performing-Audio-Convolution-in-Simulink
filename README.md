@@ -181,12 +181,7 @@ The waveform and frequency spectrum were captured using the Simulink spectrum an
 The spectrum analyzer was used to observe:
 - Frequency distribution
 - Signal amplitude
-- Waveform variations
-- Audio intensity changes
 
-The graphical waveform confirms successful convolution processing.
-
----
 
 ---
 
