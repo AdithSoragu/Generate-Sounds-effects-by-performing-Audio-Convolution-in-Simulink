@@ -271,14 +271,6 @@ The project can be extended by adding:
 
 ---
 
-# 🎓 Academic Information
-
-This project was developed as part of:
-
-> **Project Based Learning (PBL)**  
-> Dayananda Sagar Academy of Technology and Management, Bangalore
-
----
 
 # 👨‍💻 Author
 
