@@ -188,13 +188,7 @@ The graphical waveform confirms successful convolution processing.
 
 ---
 
-# 🧪 Simulation Procedure
 
-## Step 1: Open MATLAB
-
-Launch MATLAB and open Simulink.
-
----
 
 
 ---
