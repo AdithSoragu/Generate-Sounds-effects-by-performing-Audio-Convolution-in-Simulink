@@ -202,11 +202,6 @@ Launch MATLAB and open Simulink.
 open('audio_convolution.slx')
 ```
 
----
-
-## Step 3: Run the Simulation
-
-Click the **Run** button in Simulink.
 
 ---
 
