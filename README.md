@@ -81,11 +81,7 @@ The Simulink model consists of:
 
 # 📂 Project Structure
 
-```text
-Audio_Convolution_Project/
-│
-├── audio_convolution.slx     # Simulink Model
-├── input_audn
+
 ```
 # ⚙️ Software and Tools Used
 
