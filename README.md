@@ -256,13 +256,6 @@ Through this project, the following concepts were understood:
 - MATLAB audio processing
 - Signal visualization
 
----
-
-# 🔮 Future Improvements
-
-The project can be extended by adding:
-
-
 
 ---
 
