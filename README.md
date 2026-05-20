@@ -210,10 +210,6 @@ Click the **Run** button in Simulink.
 
 ---
 
-## Step 4: Observe Output
-
----
-
 # 📈 Applications
 
 Audio convolution is widely used in:
