@@ -85,10 +85,7 @@ The Simulink model consists of:
 Audio_Convolution_Project/
 │
 ├── audio_convolution.slx     # Simulink Model
-├── input_audio.wav           # Input Audio Signal
-├── output_audio.wav          # Processed Output Audio
-├── screenshots/              # Simulation Images
-├── README.md                 # Project Documentation
+├── input_audn
 ```
 # ⚙️ Software and Tools Used
 
