@@ -90,9 +90,6 @@ Audio_Convolution_Project/
 ├── screenshots/              # Simulation Images
 ├── README.md                 # Project Documentation
 ```
-
----
-
 # ⚙️ Software and Tools Used
 
 | Tool | Purpose |
@@ -161,8 +158,6 @@ Audio Output
 Spectrum Analyzer
 ```
 
----
-
 # 📷 Simulation Results
 
 The project successfully generated sound effects using audio convolution.
@@ -173,8 +168,6 @@ The waveform and frequency spectrum were captured using the Simulink spectrum an
 - Audio signal characteristics changed after convolution
 - Frequency response variations were observed
 - Sound effects such as echo/reverb were produced
-
----
 
 ---
 
