@@ -181,7 +181,6 @@ Audio convolution is widely used in:
 - Practical DSP implementation
 - Flexible audio processing
 
-
 ---
 
 # 👨‍💻 Author
