@@ -184,7 +184,6 @@ Audio convolution is widely used in:
 
 ---
 
-
 # 👨‍💻 Author
 
 ## Adith Soragu
